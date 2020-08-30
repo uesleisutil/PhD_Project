@@ -1,0 +1,81 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {brazil}{}
+\defcounter {refsection}{0}\relax 
+\thispagestyle {empty}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{RESUMO}{1}{section*.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}INTRODU\IeC {\c C}\IeC {\~A}O}{1}{section.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1}Projeto AnTarctic Modeling Observation System (ATMOS)}{3}{subsection.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}MOTIVA\IeC {\c C}\IeC {\~A}O E HIP\IeC {\'O}TESE}{5}{section.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}OBJETIVOS}{6}{section.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1}Objetivo Geral}{6}{subsection.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}Objetivos Espec\IeC {\'\i }ficos}{6}{subsection.3.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}MATERIAIS E M\IeC {\'E}TODOS}{6}{section.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1}\IeC {\'A}rea de Estudo}{6}{subsection.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.1.1}O Mar de Weddell}{7}{subsubsection.4.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2}Modelos num\IeC {\'e}ricos}{8}{subsection.4.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.1}Weather Research Forecast (WRF)}{8}{subsubsection.4.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.2}Regional Ocean Modeling System (ROMS)}{9}{subsubsection.4.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.3}Simulating Waves Nearshore (SWAN)}{9}{subsubsection.4.2.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.4}Budgell's Sea Ice Model}{9}{subsubsection.4.2.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.5}Model Coupling Toolkit (MCT)}{10}{subsubsection.4.2.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.6}Spherical Coordinate Remapping Interpolation Package (SCRIP)}{10}{subsubsection.4.2.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.7}Coupled Ocean Atmosphere Wave Sediment Transport Modeling System (COAWST)}{10}{subsubsection.4.2.7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3}Dados}{12}{subsection.4.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.1}Dados \textit {in situ} do LOA/INPE}{12}{subsubsection.4.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.2}Dispositivo de Baixo Custo para Coleta de Dados Atmosf\IeC {\'e}ricos (DBCCDA)}{13}{subsubsection.4.3.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.3}NOAA/NSDIC Climate Data Record of Passive Microwave Sea Ice Concentration (CDR)}{14}{subsubsection.4.3.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.4}ERA5 Reanalysis Dataset}{14}{subsubsection.4.3.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.5}Simple Ocean Data Assimilation (SODA) v3.12.1}{14}{subsubsection.4.3.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.6}ETOPO1 1 Arc-Minute Global Relief Model (ETOPO1)}{15}{subsubsection.4.3.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4}Prepara\IeC {\c c}\IeC {\~a}o e An\IeC {\'a}lise dos Dados}{15}{subsection.4.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.4.1}Realiza\IeC {\c c}\IeC {\~a}o das Simula\IeC {\c c}\IeC {\~o}es}{15}{subsubsection.4.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.4.2}Planejamento dos experimentos}{15}{subsubsection.4.4.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.4.3}Grades e aninhamento}{17}{subsubsection.4.4.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.4.4}Estimativas de Fluxo de Calor}{17}{subsubsection.4.4.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}RESULTADOS}{18}{section.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1}Resultados Preliminares}{18}{subsection.5.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.1.1}Simula\IeC {\c c}\IeC {\~a}o preliminar}{18}{subsubsection.5.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.1.2}Dados preliminares do DBCCDA}{19}{subsubsection.5.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2}Resultados Esperados}{20}{subsection.5.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}PLANO DE TRABALHO E CRONOGRAMA DE EXECU\IeC {\c C}\IeC {\~A}O}{21}{section.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}CONSIDERA\IeC {\c C}\IeC {\~O}ES FINAIS}{22}{section.7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{REFER\IeC {\^E}NCIAS BIBLIOGR\IeC {\'A}FICAS}{23}{section*.13}% 
+\contentsfinish 

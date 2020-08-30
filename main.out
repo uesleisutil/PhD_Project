@@ -1,0 +1,38 @@
+\BOOKMARK [1][-]{section*.2}{RESUMO}{}% 1
+\BOOKMARK [1][-]{section.1}{INTRODU\307\303O}{}% 2
+\BOOKMARK [2][-]{subsection.1.1}{Projeto AnTarctic Modeling Observation System \(ATMOS\)}{section.1}% 3
+\BOOKMARK [1][-]{section.2}{MOTIVA\307\303O E HIP\323TESE}{}% 4
+\BOOKMARK [1][-]{section.3}{OBJETIVOS}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{Objetivo Geral}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.2}{Objetivos Espec\355ficos}{section.3}% 7
+\BOOKMARK [1][-]{section.4}{MATERIAIS E M\311TODOS}{}% 8
+\BOOKMARK [2][-]{subsection.4.1}{\301rea de Estudo}{section.4}% 9
+\BOOKMARK [3][-]{subsubsection.4.1.1}{O Mar de Weddell}{subsection.4.1}% 10
+\BOOKMARK [2][-]{subsection.4.2}{Modelos num\351ricos}{section.4}% 11
+\BOOKMARK [3][-]{subsubsection.4.2.1}{Weather Research Forecast \(WRF\)}{subsection.4.2}% 12
+\BOOKMARK [3][-]{subsubsection.4.2.2}{Regional Ocean Modeling System \(ROMS\)}{subsection.4.2}% 13
+\BOOKMARK [3][-]{subsubsection.4.2.3}{Simulating Waves Nearshore \(SWAN\)}{subsection.4.2}% 14
+\BOOKMARK [3][-]{subsubsection.4.2.4}{Budgell's Sea Ice Model}{subsection.4.2}% 15
+\BOOKMARK [3][-]{subsubsection.4.2.5}{Model Coupling Toolkit \(MCT\)}{subsection.4.2}% 16
+\BOOKMARK [3][-]{subsubsection.4.2.6}{Spherical Coordinate Remapping Interpolation Package \(SCRIP\)}{subsection.4.2}% 17
+\BOOKMARK [3][-]{subsubsection.4.2.7}{Coupled Ocean Atmosphere Wave Sediment Transport Modeling System \(COAWST\)}{subsection.4.2}% 18
+\BOOKMARK [2][-]{subsection.4.3}{Dados}{section.4}% 19
+\BOOKMARK [3][-]{subsubsection.4.3.1}{Dados in situ do LOA/INPE}{subsection.4.3}% 20
+\BOOKMARK [3][-]{subsubsection.4.3.2}{Dispositivo de Baixo Custo para Coleta de Dados Atmosf\351ricos \(DBCCDA\)}{subsection.4.3}% 21
+\BOOKMARK [3][-]{subsubsection.4.3.3}{NOAA/NSDIC Climate Data Record of Passive Microwave Sea Ice Concentration \(CDR\)}{subsection.4.3}% 22
+\BOOKMARK [3][-]{subsubsection.4.3.4}{ERA5 Reanalysis Dataset}{subsection.4.3}% 23
+\BOOKMARK [3][-]{subsubsection.4.3.5}{Simple Ocean Data Assimilation \(SODA\) v3.12.1}{subsection.4.3}% 24
+\BOOKMARK [3][-]{subsubsection.4.3.6}{ETOPO1 1 Arc-Minute Global Relief Model \(ETOPO1\)}{subsection.4.3}% 25
+\BOOKMARK [2][-]{subsection.4.4}{Prepara\347\343o e An\341lise dos Dados}{section.4}% 26
+\BOOKMARK [3][-]{subsubsection.4.4.1}{Realiza\347\343o das Simula\347\365es}{subsection.4.4}% 27
+\BOOKMARK [3][-]{subsubsection.4.4.2}{Planejamento dos experimentos}{subsection.4.4}% 28
+\BOOKMARK [3][-]{subsubsection.4.4.3}{Grades e aninhamento}{subsection.4.4}% 29
+\BOOKMARK [3][-]{subsubsection.4.4.4}{Estimativas de Fluxo de Calor}{subsection.4.4}% 30
+\BOOKMARK [1][-]{section.5}{RESULTADOS}{}% 31
+\BOOKMARK [2][-]{subsection.5.1}{Resultados Preliminares}{section.5}% 32
+\BOOKMARK [3][-]{subsubsection.5.1.1}{Simula\347\343o preliminar}{subsection.5.1}% 33
+\BOOKMARK [3][-]{subsubsection.5.1.2}{Dados preliminares do DBCCDA}{subsection.5.1}% 34
+\BOOKMARK [2][-]{subsection.5.2}{Resultados Esperados}{section.5}% 35
+\BOOKMARK [1][-]{section.6}{PLANO DE TRABALHO E CRONOGRAMA DE EXECU\307\303O}{}% 36
+\BOOKMARK [1][-]{section.7}{CONSIDERA\307\325ES FINAIS}{}% 37
+\BOOKMARK [1][-]{section*.13}{REFER\312NCIAS BIBLIOGR\301FICAS}{}% 38

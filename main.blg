@@ -1,0 +1,18 @@
+[0] Config.pm:304> INFO - This is Biber 2.12
+[0] Config.pm:307> INFO - Logfile is 'main.blg'
+[18] biber:315> INFO - === dom ago 30, 2020, 16:26:58
+[35] Biber.pm:371> INFO - Reading 'main.bcf'
+[92] Biber.pm:889> INFO - Found 64 citekeys in bib section 0
+[103] Biber.pm:4093> INFO - Processing section 0
+[110] Biber.pm:4254> INFO - Looking for bibtex format file 'references.bib' for section 0
+[114] bibtex.pm:1512> INFO - LaTeX decoding ...
+[203] bibtex.pm:1329> INFO - Found BibTeX data source 'references.bib'
+[208] Utils.pm:193> WARN - Duplicate entry key: 'Vihma2009' in file 'references.bib', skipping ...
+[349] Utils.pm:193> WARN - Entry 'NSF2019' (references.bib): Invalid format '2019-13-12' of date field 'urldate' - ignoring
+[3660] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[3660] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[3660] Biber.pm:3921> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'pt-BR'
+[3660] Biber.pm:3927> INFO - No sort tailoring available for locale 'pt-BR'
+[3723] bbl.pm:636> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[3797] bbl.pm:739> INFO - Output to main.bbl
+[3797] Biber.pm:110> INFO - WARNINGS: 2
