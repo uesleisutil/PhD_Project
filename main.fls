@@ -1,9 +1,9 @@
-PWD /home/ueslei/Documents/Doutorado/Fapesp/Project
+PWD /media/ueslei/Ueslei/INPE/Doutorado/Fapesp/Project
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/ueslei/Documents/Doutorado/Fapesp/Project/main.tex
+INPUT /media/ueslei/Ueslei/INPE/Doutorado/Fapesp/Project/main.tex
 OUTPUT main.log
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
